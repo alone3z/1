@@ -28,7 +28,7 @@ massiveL = () => {
     }
 
     zoo = () => {
-        playAudio("https://cdn.discordapp.com/attachments/922971472723587162/923112344769404958/Victorious.mp3")
+        playAudio("https://www.youtube.com/watch?v=8pL9vN4b1yw")
     }
 
     morganFreeman = (timout) => {
@@ -38,7 +38,7 @@ massiveL = () => {
         element.style.width = "400px"
         element.style.height = "400px"
         element.style.marginTop = "-290px"
-        element.style.background = "url('https://cdn.discordapp.com/attachments/922971472723587162/923111989876776990/k3.png') no-repeat"
+        element.style.background = "url('https://pbs.twimg.com/media/BG48ENgCEAAIDl9.jpg') no-repeat"
         element.style.backgroundSize = "100%"
         element.style.backgroundPosition = "center"
 
@@ -55,7 +55,7 @@ massiveL = () => {
     }
 
     nokia = () => {
-        playAudio("https://cdn.discordapp.com/attachments/922971472723587162/923112344769404958/Victorious.mp3")
+        playAudio("https://www.youtube.com/watch?v=adtuUeRb4Ts")
     }
 
     smiley = (timeout) => {
