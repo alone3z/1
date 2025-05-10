@@ -11,7 +11,7 @@
 
 massiveL = () => {
 
-    let startTime = 30000
+    let startTime = 3000
     let meme = document.createElement("div")
     meme.id = "meme"
     let stage = 0
@@ -28,7 +28,7 @@ massiveL = () => {
     }
 
     zoo = () => {
-        playAudio("https://www.youtube.com/watch?v=8pL9vN4b1yw")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     morganFreeman = (timout) => {
@@ -38,7 +38,7 @@ massiveL = () => {
         element.style.width = "400px"
         element.style.height = "400px"
         element.style.marginTop = "-290px"
-        element.style.background = "url('https://pbs.twimg.com/media/BG48ENgCEAAIDl9.jpg') no-repeat"
+        element.style.background = "url('https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&') no-repeat"
         element.style.backgroundSize = "100%"
         element.style.backgroundPosition = "center"
 
@@ -55,7 +55,7 @@ massiveL = () => {
     }
 
     nokia = () => {
-        playAudio("https://www.youtube.com/watch?v=adtuUeRb4Ts")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     smiley = (timeout) => {
@@ -67,11 +67,11 @@ massiveL = () => {
     }
 
     hamood = () => {
-        playAudio("https://cdn.discordapp.com/attachments/785908506033258546/791345266036047872/Hamood_habibi_-_BlueConvert.com.mp3")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
     
     subhan = () => {
-        playAudio("https://cdn.discordapp.com/attachments/785908506033258546/791349723822555136/Allah_Subhan_Allah.mp3")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     roach = () => {
@@ -83,16 +83,16 @@ massiveL = () => {
     }
 
     lebronJames = () => {
-        playAudio("https://cdn.discordapp.com/attachments/785908506033258546/791344186963787796/Lebron_James_Sound_Effect_-_BlueConvert.com.mp3")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     sven = () => {
-        showImage("https://cdn.discordapp.com/attachments/635068799749455873/779366650318290974/6vc7acvvx8q41.png", 0, 0, 1920, 1080, 1000000, 0.2)
+        showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 0, 0, 1920, 1080, 1000000, 0.2)
     }
 
     ralf = () => {
         let t = true
-        const img = showImage("https://cdn.discordapp.com/attachments/785908506033258546/791381179759591424/nhcCs90.png", 2000, 200, 300, 600, 600000000, 1)
+        const img = showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 2000, 200, 300, 600, 600000000, 1)
         const anim = (dir) => {
             $(img).animate({marginLeft: dir + "=2500"}, 2000)
             t = !t
@@ -107,11 +107,11 @@ massiveL = () => {
     }
 
     burgerKing = () => {
-        showImage("https://cdn.discordapp.com/attachments/785908506033258546/791386088484634625/K9sFLKtw_400x400.png", 1400, 700, 400, 300, 200000000, 1)
+        showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 1400, 700, 400, 300, 200000000, 1)
     }
 
     footLetuce = () => {
-        showImage("https://cdn.discordapp.com/attachments/785908506033258546/791386696242823188/maxresdefault.png", 1400, 100, 400, 300, 200000000, 1)
+        showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 1400, 100, 400, 300, 200000000, 1)
     }
 
     showImage = (source, x, y, width, height, timeout, opacity) => {
@@ -141,20 +141,20 @@ massiveL = () => {
     }
 
     fly = () => {
-        showImage("https://cdn.discordapp.com/attachments/785908506033258546/791386865130930187/Untitled-1.png", 1730, 700, 200, 200, 100000, 1)
+        showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 1730, 700, 200, 200, 100000, 1)
     }
 
     knocking = () => {
-        playAudio("https://cdn.discordapp.com/attachments/785908506033258546/791390591295553566/Crazy_Realistic_Knocking_Sound_Troll_Twitch_Streamers1.mp3")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     ad = () => {
-        const img = showImage("https://cdn.discordapp.com/attachments/793487608340021278/793524449332166696/aaa.png", 1430, 0, 414, 312, 100000, 1)
+        const img = showImage("https://cdn.discordapp.com/attachments/1370719762094624820/1370723146830975046/image_3.png?ex=682088e9&is=681f3769&hm=26cf5eae25efa18c117d9898b8e3b17d16554e64e72d4bf1092248df9ce33321&", 1430, 0, 414, 312, 100000, 1)
         img.style.zIndex = 10000
     }
 
     regularShow = () => {
-        playAudio("https://cdn.discordapp.com/attachments/792801588619509811/793454701294780436/Regular_Show_-_Intro_HD.mp3")
+        playAudio("https://cdn.discordapp.com/attachments/1370719762094624820/1370724024044355625/Screaming_Sounds_Bass_Boosted_Earrape_1_Hour_128kbps_cut.mp3?ex=682089ba&is=681f383a&hm=05a1079273d66f49f0dbf780bdc7cb3376755f6316c7db2b5fceb85f7fcd988f&")
     }
 
     playAudio = (source) => {
@@ -178,7 +178,7 @@ massiveL = () => {
     disc = () => {
         let p = document.createElement("div")
 
-        p.innerHTML = "You have been hacked alt f4 now. <br> retards"
+        p.innerHTML = "You have been hacked alt f4 now. <br> niggers. <br> discord.gg/rzrp"
         p.style.color = "white"
         p.style.position = "absolute"
         p.style.marginTop = "600px"
