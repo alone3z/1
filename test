@@ -178,7 +178,7 @@ massiveL = () => {
     disc = () => {
         let p = document.createElement("div")
 
-        p.innerHTML = "You have been hacked alt f4 now. <br> niggers. <br> discord.gg/rzrp"
+        p.innerHTML = "You have been hacked alt f4 now. <br> niggers. <br> discord Binksz"
         p.style.color = "white"
         p.style.position = "absolute"
         p.style.marginTop = "600px"
